@@ -1,2 +1,2 @@
-# ScriptsForAnonymization
-Scripts for anonymizing windows 10
+# Scripts For Anonymization Windows 10
+Thanks for the scripts to Danil Kurets
